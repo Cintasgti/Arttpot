@@ -7,4 +7,4 @@
 <!---
 Cintasgti/Cintasgti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->https://art.app.com/validation-key.txt
+--->https://art.app.com/
