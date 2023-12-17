@@ -1,4 +1,4 @@
-echo "# arttpot" >> README.md
+echo "# artpot" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
